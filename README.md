@@ -7,5 +7,5 @@ Key Features:
 
 - Homepage Layout: Mimics Instagram's feed with a grid layout for posts.
 - Profile Page: Designed to resemble a user profile with a bio, posts, and followers count.
-Navigation Bar: Includes a responsive navigation bar for easy access to different sections.
-Post Styling: Implements typical Instagram post styles, including images, captions, and like/comment buttons.
+- Navigation Bar: Includes a responsive navigation bar for easy access to different sections.
+- Post Styling: Implements typical Instagram post styles, including images, captions, and like/comment buttons.
